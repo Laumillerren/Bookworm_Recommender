@@ -1,0 +1,5 @@
+#ignore certain kinds of files
+*.csv
+*.json.gz
+*.json
+
